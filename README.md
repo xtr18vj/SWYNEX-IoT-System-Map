@@ -50,7 +50,8 @@ A room owner can check temperature and humidity remotely. Historical charts can 
 This is an architecture proposal only. No physical sensor, ESP32, cloud database, or live dashboard has been connected. MQTT/HTTP and the cloud platform are design choices; the implementation would depend on the selected service.
 
 ### 8. Architecture diagram
-See [`iot-system-architecture.svg`](iot-system-architecture.svg).
+See [`iot-system-architecture.svg`](iot-system-architecture.svg).<img width="2268" height="1144" alt="iot-system-architecture" src="https://github.com/user-attachments/assets/d6b1216d-0d3f-4618-84d6-1aaf6fe7e545" />
+
 
 ### 9. Learning outcomes
 - Identified the sensing, edge, connectivity, cloud, and application layers.
